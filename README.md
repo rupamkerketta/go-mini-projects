@@ -4,7 +4,7 @@
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/rupamkerketta/go-mini-projects)
 
 This repository was created for the sole purpose of learning `Go` by implementing the
-various concepts in small and digestable projects.
+various concepts in small and digestible projects.
 
 _Good documentation, idiomatic code, and quick reference to small chunks of code samples_
 were the motivating factors that led to the creation of this repository.
